@@ -2,6 +2,8 @@
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN-SUFFIX,slll.in
+  - DOMAIN-SUFFIX,wechat.com
+  - DOMAIN-SUFFIX,jetbrains.com.cn
   - DOMAIN-SUFFIX,ppxvod.com
   - DOMAIN,local.adguard.org
   - DOMAIN,injections.adguard.org

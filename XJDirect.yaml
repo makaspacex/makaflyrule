@@ -2,6 +2,7 @@
 payload:
   - DOMAIN,ip.istatmenus.app
   - DOMAIN-SUFFIX,slll.in
+  - DOMAIN-SUFFIX,miaona.fun
   - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,wechat.com
   - DOMAIN-SUFFIX,jetbrains.com.cn

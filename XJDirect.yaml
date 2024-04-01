@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,pc528.net
   - DOMAIN-SUFFIX,passwall.vip
   - DOMAIN-SUFFIX,sciencedirect.com
-  - DOMAIN-SUFFIX,surrit.com
   # proxy utils
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,Surge

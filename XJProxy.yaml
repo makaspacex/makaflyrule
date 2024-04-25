@@ -19,6 +19,7 @@ payload:
   - DOMAIN-KEYWORD,btearn
   - DOMAIN-KEYWORD,stackoverflow
   - DOMAIN,imgur.com
+  - DOMAIN-SUFFIX,visualstudio.com
   # 谷歌字体相关
   - DOMAIN,fontfiles.googleadapis.com
   - DOMAIN,fontfiles.googleapis.com

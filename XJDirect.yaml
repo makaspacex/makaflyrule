@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,passwall.vip
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,lwgod.org
+  - DOMAIN-SUFFIX,buduanwang.vip
   # proxy utils
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,Surge

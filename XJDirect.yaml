@@ -16,6 +16,10 @@ payload:
   - DOMAIN-SUFFIX,buduanwang.vip
   - DOMAIN-SUFFIX,global.synologydownload.com
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,qishui.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,amemv.com
   # proxy utils
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,Surge

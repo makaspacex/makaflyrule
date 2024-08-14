@@ -9,6 +9,7 @@ payload:
   - DOMAIN,www.python.org
   - DOMAIN-KEYWORD,tokenpocket
   - DOMAIN-KEYWORD,i18.io
+  - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-SUFFIX,royalapps.com
   - DOMAIN-KEYWORD,ebay

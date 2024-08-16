@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,bingvisualsearch.com
   - DOMAIN-SUFFIX,bingworld.com
   # OpenAI
+  - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,static.cloudflareinsights.com
   - DOMAIN-SUFFIX,ai.com

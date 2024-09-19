@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,qishui.com
   - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN,gspe1-ssl.ls.apple.com
   # proxy utils
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,Surge

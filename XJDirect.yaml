@@ -1,5 +1,7 @@
 
 payload:
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,taobao.com
   - DOMAIN,ip.istatmenus.app
   - DOMAIN-SUFFIX,miaona.fun
   - DOMAIN-SUFFIX,gh-proxy.com

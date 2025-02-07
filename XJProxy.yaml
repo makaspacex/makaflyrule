@@ -12,8 +12,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-KEYWORD,themoviedb
   - DOMAIN-SUFFIX,royalapps.com
-  - DOMAIN-KEYWORD,ebay
-  - DOMAIN-SUFFIX,xyz
+  - DOMAIN-KEYWORD,jable
   - DOMAIN-SUFFIX,tzvpn.org
   - DOMAIN-SUFFIX,intel.com
   - DOMAIN-SUFFIX,datacolor.com
